@@ -17,7 +17,7 @@
 Give a ⭐️ if this project helped you!
 
 ## GitHub Pages
-(https://bymer25.github.io/LASTKTJSDOOM30B/)
+([https://bymer25.github.io/LASTKTJSDOOM30B/](https://bymer25.github.io/LastDOMKTTO-DO/))
 
 ***
 _This README was generated with ❤️ by readme-md-generator_
